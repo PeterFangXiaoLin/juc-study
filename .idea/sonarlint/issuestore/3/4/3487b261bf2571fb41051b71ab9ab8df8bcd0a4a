@@ -1,0 +1,15 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ìí¡Íú1J$2e6a4809-3e56-4185-9087-bd8e8f9f81a5
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8íí¡Íú1J$db9d9007-7532-488d-802b-a60061c79b47
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "take " 3 times.(õØŠ×8îí¡Íú1J$0ba1e118-94a1-432e-9a52-cf89c21fba7c
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8õí¡Íú1J$f69d296f-2372-4a52-bc60-08b1cd3a51fc
+r	java:S106"+Replace this use of System.out by a logger.(“ßïºøÿÿÿÿ8öí¡Íú1J$4c335080-0d68-4e83-9ee9-28341c41a3b9
+l	java:S106"+Replace this use of System.out by a logger.(Î—ï+8øí¡Íú1J$45af1267-31e9-44f2-ab2f-3fa8591f2f68
+r	java:S106"+Replace this use of System.out by a logger.(¸óÕ—øÿÿÿÿ8ùí¡Íú1J$089389f5-8ced-4048-ba08-56a4dfbe5f62
+¡
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8øí¡Íú1J$a73c1b8e-1ebf-4ee7-839c-eea04e7bba00
+m	java:S106"+Replace this use of System.out by a logger.(õØŠ×8ùí¡Íú1J$a76f2ad3-b0b9-43ed-b8a4-84b615cbc094
+m	java:S106"+Replace this use of System.out by a logger.(õØŠ×8Ñ¬¢Íú1J$606d3f1b-c8f5-4e15-89c0-ff4ec80d88ac
+m	java:S106!"+Replace this use of System.out by a logger.(õØŠ×8Œè¢Íú1J$08a0b2b1-6362-4517-a782-3c2221ec7c94

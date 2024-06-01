@@ -1,0 +1,22 @@
+
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ï˜ä£ú1J$1b8226f4-211d-495d-83c5-8b51c572054d
+o
+java:S1602",Remove useless curly braces around statement(¥—ığ8ƒ™ä£ú1J$0336ddfd-4604-4f06-83c6-8a743f2b9513
+o
+java:S1602",Remove useless curly braces around statement(¥—ığ8„™ä£ú1J$1b58f348-0f49-4ed0-bc9a-16040aa2154e
+Ÿ
+java:S3077("WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ8†™ä£ú1J$90c15f63-686e-4c59-ae12-a2278d012098
+m	java:S1061"+Replace this use of System.out by a logger.(ş©¼8‰™ä£ú1J$745f8ce6-e58f-4dfd-aa40-09b789bb51dc
+m	java:S1063"+Replace this use of System.out by a logger.(ğÅõ‰8Š™ä£ú1J$e1984763-737b-487c-bc5e-fdfc337a51ae
+r	java:S106="+Replace this use of System.out by a logger.(¨µ³ùÿÿÿÿ8™ä£ú1J$0a637962-f49b-4bf1-b1ab-9597934bd136
+o
+java:S2201>"'The return value of "get" must be used.(Ô±ğšùÿÿÿÿ8™ä£ú1J$4c5bab0d-90a1-47e6-ba96-a7788e25e6e9
+m	java:S106?"+Replace this use of System.out by a logger.(™¾İ8™ä£ú1J$a3129457-606f-4870-a3a5-8e6691a9373e
+Ÿ
+java:S3077I"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ8™ä£ú1J$96d78a5b-12bc-4f70-baca-0e5eca3277a3
+m	java:S106M"+Replace this use of System.out by a logger.(ş©¼8‘™ä£ú1J$46f56c2f-0fad-4d57-b08e-f3c69eca0412
+m	java:S106O"+Replace this use of System.out by a logger.(ğÅõ‰8’™ä£ú1J$1d7a5a8a-5b56-436e-808d-e4f975a774b1
+r	java:S106T"+Replace this use of System.out by a logger.(¨µ³ùÿÿÿÿ8’™ä£ú1J$666cde9f-2c66-4f63-be0c-539871ca669a
+o
+java:S2201U"'The return value of "get" must be used.(Ô±ğšùÿÿÿÿ8“™ä£ú1J$1370f182-5db9-428d-b5c7-f6eeac63ca2a
+m	java:S106V"+Replace this use of System.out by a logger.(™¾İ8“™ä£ú1J$f2786a46-e6b9-42da-a286-c161367a0e7e

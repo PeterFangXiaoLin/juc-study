@@ -1,0 +1,14 @@
+
+	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Äü¬ùù1J$a06459a8-5e91-44f1-9a8e-2c43a557ec71
+	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Åü¬ùù1J$8825dc1c-f63c-4512-a3c0-3bfa5e6c5494
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Åü¬ùù1J$3b6f663e-c940-4b86-a667-ce055529ceaa
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ®‚î8Çü¬ùù1J$11932b28-ec49-4590-b9b7-d10dfe7e582e
+¡
+java:S21422"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Üü¬ùù1J$fd2380f4-3d23-472d-8079-f271a1bf513d
+r	java:S106/"+Replace this use of System.out by a logger.(ºÅÓûÿÿÿÿ8İü¬ùù1J$83a4efa2-460d-49f6-9a97-b07e1b49100e
+¡
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ßü¬ùù1J$a072d020-429e-4882-affd-090ee829059f
+m	java:S106?"+Replace this use of System.out by a logger.(­ƒ›¡8ßü¬ùù1J$f780984f-101e-4ceb-8a21-35a906ac0009
+¡
+java:S2142R"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8àü¬ùù1J$6a6321eb-e8cc-43ee-8cd4-b9efc0ed73dc
+m	java:S106O"+Replace this use of System.out by a logger.(–ˆœî8áü¬ùù1J$c8d87536-a570-47d5-baaf-9b99e56bc1b9

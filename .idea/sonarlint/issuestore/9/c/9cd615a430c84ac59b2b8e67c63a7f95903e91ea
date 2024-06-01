@@ -1,0 +1,13 @@
+
+	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8³´ıøù1J$00fc7e24-4a99-4dda-93b9-7b3ba6c97d45
+	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8´´ıøù1J$b0a8b271-3bf3-4bfe-8bd7-40443d3bc323
+I
+java:S1602",Remove useless curly braces around statement(¥—ığ8ª¥şøù1
+Y
+java:S1612"<Replace this lambda with method reference 'data::increment'.(¥—ığ8ª¥şøù1
+¡
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ë´ıøù1J$ce795a71-b228-45e6-9838-768ba4416f09
+r	java:S106/"+Replace this use of System.out by a logger.(êÖÒşÿÿÿÿ8”Ùûøù1J$a4ecc25f-a106-4a7d-9f2a-81723bc6ae26
+¡
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Î´ıøù1J$07bd38e0-0ecf-424d-a5ff-297218b96416
+r	java:S106<"+Replace this use of System.out by a logger.(êÖÒşÿÿÿÿ8•Ùûøù1J$f0af748e-4492-465a-96a3-a96f2493e759

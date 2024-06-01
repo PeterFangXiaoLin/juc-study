@@ -1,0 +1,7 @@
+
+”
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(»ÆšÞ8×˜°õú1J$5ca71d4f-8d41-47ff-be63-ee41deeca129
+~	java:S125
+"<This block of commented-out lines of code should be removed.(¿ì‘8Ø˜°õú1J$685b79b1-8a89-46ed-9019-b8b99edf9dfe
+r	java:S106"+Replace this use of System.out by a logger.(É“æýÿÿÿÿ8‡…®õú1J$1bbace0d-ffa2-4fa3-adcf-67dc8858060d
+r	java:S106"+Replace this use of System.out by a logger.(°è­‡üÿÿÿÿ8Û˜°õú1J$6d5d3aa5-0ffc-44d8-b510-6a3f0af190a4
