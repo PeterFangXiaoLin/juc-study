@@ -1,10 +1,10 @@
 
 
-java:S1192"FDefine a constant instead of duplicating this literal "time=" 3 times.(¨Ööûÿÿÿÿ8İ½ø˜ü1J$7b3bce0f-50e2-4636-b914-db9e7e47c4dc
+java:S1192"FDefine a constant instead of duplicating this literal "time=" 3 times.(¨Ööûÿÿÿÿ8İ½ø˜ü1J$dfc79409-4e5b-4f78-9f51-ebf8b31f802c
 Ä
-java:S1130	"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ñ½ø˜ü1J$3e120ccd-0292-4bba-8578-da8f7732852e
+java:S1130	"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ñ½ø˜ü1J$3f9b6cf3-9468-47a7-b391-00d0e819abd8
 º
-java:S1130	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ò½ø˜ü1J$0b57af4c-0190-4f53-b82d-ba2105a2ba05
-r	java:S106"+Replace this use of System.out by a logger.(¨Ööûÿÿÿÿ8õ½ø˜ü1J$fc9b792e-eded-46a3-8ecb-15c8aaaeac3e
-r	java:S106 "+Replace this use of System.out by a logger.(¨Ööûÿÿÿÿ8û½ø˜ü1J$632520ac-c363-4cf2-833d-c16283770839
-r	java:S106'"+Replace this use of System.out by a logger.(¨Ööûÿÿÿÿ8ı½ø˜ü1J$2d5cf9e6-5761-407e-87e9-d9f7d0b1fff0
+java:S1130	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ò½ø˜ü1J$92a72a5f-86d8-4345-a4dc-032e241f58dd
+r	java:S106"+Replace this use of System.out by a logger.(¨Ööûÿÿÿÿ8õ½ø˜ü1J$ad33a481-3fc8-4578-aebb-44a9ffd162ba
+r	java:S106 "+Replace this use of System.out by a logger.(¨Ööûÿÿÿÿ8û½ø˜ü1J$8a8e8da6-3c19-4389-8aa6-17c8503c593f
+r	java:S106'"+Replace this use of System.out by a logger.(¨Ööûÿÿÿÿ8ı½ø˜ü1J$799dd200-861c-4221-ae19-3c2598f11a06

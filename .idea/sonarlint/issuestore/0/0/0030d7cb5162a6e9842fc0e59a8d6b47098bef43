@@ -1,4 +1,5 @@
 
-p	java:S108
-")Either remove or fill this block of code.(Úë©üùÿÿÿÿ8á„â—ı1J$0068b96c-babf-4320-8616-fe70948f3507
-r	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8ñÏã—ı1J$00b474a7-3cb5-4e52-b19c-048b4bef6424
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ñá¤ü8ÔŞ—˜ı1J$f70e7461-6791-4e61-bb1a-1e119df17fb4
+p	java:S108")Either remove or fill this block of code.(Úë©üùÿÿÿÿ8á„â—ı1J$e2aa379f-e56e-4289-9cb5-cbf8ea93c607
+r	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8ñÏã—ı1J$fd5741e3-cb53-4c01-a70c-fdfa901e95b6

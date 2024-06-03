@@ -1,11 +1,11 @@
 
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(àà”¢ıÿÿÿÿ8˜‡Ã•ı1J$501f283c-d24b-4096-b6ef-e9314a6037d0
-r	java:S106"+Replace this use of System.out by a logger.(‹±Ô¥ıÿÿÿÿ8š‡Ã•ı1J$6ea9f980-ff7c-4f21-ab95-202a013208f6
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(àà”¢ıÿÿÿÿ8˜‡Ã•ı1J$7f497670-05ae-4c48-8403-c71e57fb35b9
+r	java:S106"+Replace this use of System.out by a logger.(‹±Ô¥ıÿÿÿÿ8š‡Ã•ı1J$d3d92681-1e6a-4d2a-81b5-cdef9b57e3a2
 n
-java:S1481 "&Remove this unused "i" local variable.(ÚÈŸ‡ÿÿÿÿÿ8¤ÙÄ•ı1J$85a5e40b-8371-4761-970f-f3b74862ed81
-r	java:S106$"+Replace this use of System.out by a logger.(÷“¹ùÿÿÿÿ8¤ÌÆ•ı1J$e55cc9ec-9231-4103-87ef-15c871c8b20e
-r	java:S106%"+Replace this use of System.out by a logger.(Ø´À•øÿÿÿÿ8¥ÌÆ•ı1J$cd03d906-ad97-498a-bb77-8fecf8b31dc0
-r	java:S106&"+Replace this use of System.out by a logger.(æ—‚ÿûÿÿÿÿ8¥ÌÆ•ı1J$0f90949d-e7d5-4ce6-ad0d-529394e78dfd
+java:S1481 "&Remove this unused "i" local variable.(ÚÈŸ‡ÿÿÿÿÿ8¤ÙÄ•ı1J$17c64d49-0aec-464f-bd60-065c0379e477
+r	java:S106$"+Replace this use of System.out by a logger.(÷“¹ùÿÿÿÿ8¤ÌÆ•ı1J$d88009e4-e020-4d64-b9a9-0d23a6a4c6c6
+r	java:S106%"+Replace this use of System.out by a logger.(Ø´À•øÿÿÿÿ8¥ÌÆ•ı1J$9e945690-3606-4b69-87e3-ffa2683cf5b3
+r	java:S106&"+Replace this use of System.out by a logger.(æ—‚ÿûÿÿÿÿ8¥ÌÆ•ı1J$e95b9af7-0285-434d-9239-6d81ef2fee51
 w
-java:S1611'"/Remove the parentheses around the "e" parameter(“ıä¬şÿÿÿÿ8§ÌÆ•ı1J$5f626287-e8a2-417c-945e-c400a9e6b6da
-r	java:S106("+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8§ÌÆ•ı1J$3f844399-2401-4a24-8064-78d8d3b49060
+java:S1611'"/Remove the parentheses around the "e" parameter(“ıä¬şÿÿÿÿ8§ÌÆ•ı1J$a0f711e3-91f3-4116-aa57-7c2e1eda3283
+r	java:S106("+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8§ÌÆ•ı1J$9ca92802-d965-466a-923d-870566f530ce
